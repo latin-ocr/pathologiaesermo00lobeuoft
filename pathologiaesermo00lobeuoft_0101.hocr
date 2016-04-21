@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pathologiaesermo00lobeuoft_0101.png"; bbox 0 0 1699 3021; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 347 872 1273 931">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 347 872 1273 931">
+     <span class='ocr_line' id='line_1_1' title="bbox 347 872 1273 931; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 347 872 868 931; x_wconf 81' lang='lat' dir='ltr'><strong>DISSERTATIO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 903 874 1273 931; x_wconf 86' lang='lat' dir='ltr'><strong>SECUNDA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 70 1279 1547 1440">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 70 1279 1547 1440">
+     <span class='ocr_line' id='line_1_2' title="bbox 70 1279 1547 1440; baseline -0.001 -97"><span class='ocrx_word' id='word_1_3' title='bbox 70 1281 415 1347; x_wconf 82' lang='lat' dir='ltr'>NOMINIBUS</span> <span class='ocrx_word' id='word_1_4' title='bbox 458 1281 1375 1440; x_wconf 43' lang='lat' dir='ltr'><strong>QUORUffiRfflssJRACTERISTICA</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1428 1279 1547 1343; x_wconf 83' lang='lat' dir='ltr'><strong>EST</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 302 1611 1309 1654">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 302 1611 1309 1654">
+     <span class='ocr_line' id='line_1_3' title="bbox 302 1611 1309 1654; baseline -0.001 -8"><span class='ocrx_word' id='word_1_6' title='bbox 302 1612 497 1654; x_wconf 85' lang='lat' dir='ltr'>(PRIMUM</span> <span class='ocrx_word' id='word_1_7' title='bbox 524 1611 659 1646; x_wconf 84' lang='lat' dir='ltr'><strong>EDITA</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 685 1611 877 1646; x_wconf 76' lang='lat' dir='ltr'>INEUNTE</span> <span class='ocrx_word' id='word_1_9' title='bbox 909 1611 1027 1646; x_wconf 72' lang='lat' dir='ltr'>ANNO</span> <span class='ocrx_word' id='word_1_10' title='bbox 1053 1611 1309 1651; x_wconf 65' lang='lat' dir='ltr'>MDCCGXLI.)</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
